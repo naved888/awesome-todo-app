@@ -1,0 +1,43 @@
+{
+  "admin": [
+    {
+      "name": "naved",
+      "email": "navedshaikh993@gmail.com",
+      "pass": "dxa993"
+    }
+  ],
+  "todos": [
+    {
+      "userId": 1,
+      "id": 1,
+      "todo_topic": "gym workout",
+      "checked": false
+    },
+    {
+      "userId": 2,
+      "id": 2,
+      "todo_topic": "shopping and the shopping list is missing",
+      "checked": false
+    },
+    {
+      "userId": 2,
+      "id": 3,
+      "todo_topic": "exercise",
+      "checked": false
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "name": "tony",
+      "email": "tonystark993@gmail.com",
+      "pass": "jarvis"
+    },
+    {
+      "id": 2,
+      "name": "hulk",
+      "email": "hulk993@gmail.com",
+      "pass": "gamma"
+    }
+  ]
+}
